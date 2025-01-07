@@ -97,4 +97,4 @@ local npfix = Instance.new("ScreenGui")
     updateChatLogs(playerName .. ": " .. messageContent)
     end
 
-loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Anthonys-acl-ANTI-CHAT-LOGGER-7184"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yeeeter30/ObscuraACL/refs/heads/main/ObscuraACL1.6.lua",true))()
